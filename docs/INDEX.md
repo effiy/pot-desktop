@@ -40,6 +40,10 @@
 -   [外部调用 API](api/external-api.md) - 外部程序调用 API
 -   [配置 API](api/config-api.md) - 配置系统 API
 
+### 🎨 组件文档
+
+-   [组件中心](components/) - UI 组件完整文档和使用指南
+
 ### 🌍 多语言版本
 
 -   [English](README_EN.md) - English Documentation
@@ -59,7 +63,8 @@
 -   **普通用户**: 查看[用户手册](user-guides/user-manual.md)和[配置说明](user-guides/configuration.md)
 -   **高级用户**: 参考[高级功能](user-guides/advanced-features.md)和[插件使用](user-guides/plugins.md)
 -   **开发者**: 从[项目结构](development/project-structure.md)开始，然后查看[开发环境](development/development-setup.md)
--   **插件开发者**: 重点关注[插件 API](api/plugin-api.md)
+-   **前端开发者**: 重点关注[组件文档](components/)和[组件开发指南](development/components.md)
+-   **插件开发者**: 重点关注[插件 API](api/plugin-api.md)和[插件开发指南](development/plugins.md)
 
 ### 按功能分类
 
