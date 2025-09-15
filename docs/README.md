@@ -407,14 +407,6 @@ windowrulev2 = move cursor 0 0, class:(pot), title:(Translator|PopClip|Screensho
 
 </div>
 
-<div align="center">
-
-# 贡献者
-
-</div>
-
-<img src="https://github.com/pot-app/.github/blob/master/pot-desktop-contributions.svg?raw=true" width="100%"/>
-
 ## 手动编译
 
 ### 环境要求
@@ -456,17 +448,3 @@ Rust >= 1.80.0
     ```bash
     pnpm tauri build # Build into installation package
     ```
-
-<div align="center">
-
-# 感谢
-
-</div>
-
--   [Bob](https://github.com/ripperhe/Bob) 灵感来源
--   [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) OpenAI 接口参考
--   [@uiYzzi](https://github.com/uiYzzi) 实现思路
--   [@Lichenkass](https://github.com/Lichenkass) 维护 Deepin 应用商店中的 pot
--   [Tauri](https://github.com/tauri-apps/tauri) 好用的 GUI 框架
-
-<div align="center">
