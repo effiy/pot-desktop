@@ -1,25 +1,69 @@
-# API 文档
+# 📖 API 文档中心
 
-这个目录包含了 Pot 项目的各种 API 文档。
+> 🔌 为开发者提供完整的 Pot API 接口文档和集成指南
+
+## 🎯 API 导航
+
+### 🚀 快速开始
+
+| 用途         | API 类型 | 文档链接                        | 复杂度  |
+| ------------ | -------- | ------------------------------- | ------- |
+| **开发插件** | 插件 API | [插件 API](plugin-api.md)       | 🟡 中等 |
+| **集成应用** | 外部调用 | [外部调用 API](external-api.md) | 🟢 简单 |
+| **系统配置** | 配置 API | [配置 API](config-api.md)       | 🟢 简单 |
 
 ## 📚 API 分类
 
-### 插件系统
+### 🔌 插件开发 API
 
--   [插件 API](plugin-api.md) - 插件开发完整 API 参考
--   [插件开发指南](plugin-development.md) - 如何开发 Pot 插件
+<details>
+<summary><strong>插件系统接口</strong></summary>
 
-### 外部集成
+-   [🔧 插件 API](plugin-api.md) - 插件开发完整 API 参考和示例
+-   [🛠️ 插件开发指南](plugin-development.md) - 从零开始开发 Pot 插件
 
--   [外部调用 API](external-api.md) - 外部程序如何调用 Pot 功能
--   [HTTP API](http-api.md) - HTTP 接口文档
--   [命令行接口](cli-api.md) - 命令行调用接口
+**支持的插件类型**:
 
-### 内部 API
+-   🔤 翻译插件 - 添加新的翻译服务
+-   📷 OCR 插件 - 添加新的文字识别服务
+-   🔊 TTS 插件 - 添加新的语音合成服务
+-   📚 存储插件 - 添加新的数据存储方式
 
--   [配置 API](config-api.md) - 配置系统 API
--   [存储 API](storage-api.md) - 数据存储相关 API
--   [窗口管理 API](window-api.md) - 窗口控制 API
+</details>
+
+### 🌐 外部集成 API
+
+<details>
+<summary><strong>应用集成接口</strong></summary>
+
+-   [🌐 外部调用 API](external-api.md) - 外部程序调用 Pot 功能的完整接口
+-   [📡 HTTP API](http-api.md) - RESTful HTTP 接口文档
+-   [⌨️ 命令行接口](cli-api.md) - 命令行调用接口和参数
+
+**支持的调用方式**:
+
+-   HTTP REST API - Web 服务集成
+-   命令行接口 - 脚本和自动化
+-   WebSocket - 实时通信（开发中）
+
+</details>
+
+### ⚙️ 系统内部 API
+
+<details>
+<summary><strong>内部系统接口</strong></summary>
+
+-   [⚙️ 配置 API](config-api.md) - 配置系统读写接口
+-   [💾 存储 API](storage-api.md) - 数据存储和查询接口
+-   [🪟 窗口管理 API](window-api.md) - 窗口控制和管理接口
+
+**主要功能**:
+
+-   配置管理 - 读取和更新应用配置
+-   数据存储 - 翻译历史和用户数据
+-   窗口控制 - 窗口显示和交互
+
+</details>
 
 ## 🔧 API 使用场景
 
