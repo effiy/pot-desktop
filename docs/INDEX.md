@@ -12,6 +12,7 @@
 
 ### 👥 用户指南
 
+-   [菜单导航](user-guides/menu-navigation.md) - 菜单结构和导航指南
 -   [基本使用](user-guides/basic-usage.md) - 基础功能使用方法
 -   [高级功能](user-guides/advanced-features.md) - 高级功能和技巧
 -   [配置说明](user-guides/configuration.md) - 详细配置选项
@@ -21,10 +22,14 @@
 ### 🛠️ 开发文档
 
 -   [项目结构](development/project-structure.md) - 项目目录结构说明
+-   [路由和菜单](development/routes-and-menus.md) - 功能路由和菜单系统详解
 -   [开发环境](development/development-setup.md) - 开发环境搭建
 -   [构建部署](development/build-and-deploy.md) - 构建和部署指南
+-   [代码规范](development/coding-standards.md) - 代码风格和编写规范
+-   [测试指南](development/testing.md) - 测试策略和最佳实践
 -   [贡献指南](development/contributing.md) - 如何参与项目贡献
 -   [架构设计](development/architecture.md) - 系统架构设计文档
+-   [开发常见问题](development/troubleshooting.md) - 开发过程中的问题解决
 
 ### 📖 API 文档
 
@@ -59,7 +64,7 @@
 -   **OCR 识别**: [高级功能](user-guides/advanced-features.md) → [配置说明](user-guides/configuration.md)
 -   **插件系统**: [插件使用](user-guides/plugins.md) → [插件 API](api/plugin-api.md)
 -   **外部调用**: [外部调用 API](api/external-api.md)
--   **问题解决**: [故障排除](user-guides/troubleshooting.md)
+-   **问题解决**: [常见问题](user-guides/troubleshooting.md)
 
 ## 💡 贡献文档
 

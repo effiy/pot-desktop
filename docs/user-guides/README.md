@@ -7,6 +7,7 @@
 ### 基础使用
 
 -   [安装指南](installation.md) - 如何安装 Pot 到不同操作系统
+-   [菜单导航](menu-navigation.md) - 菜单结构和导航指南
 -   [基本使用](basic-usage.md) - 基础翻译功能使用方法
 -   [用户手册](user-manual.md) - 完整的用户使用手册
 
@@ -18,7 +19,7 @@
 
 ### 帮助支持
 
--   [故障排除](troubleshooting.md) - 常见问题的解决方案
+-   [常见问题](troubleshooting.md) - 用户使用过程中的常见问题解决方案
 -   [韩国语文档](README_KR.md) - 한국어 사용자 가이드
 
 ## 🚀 快速开始
