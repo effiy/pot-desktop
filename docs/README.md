@@ -1,4 +1,4 @@
-<img width="200px" src="public/icon.svg" align="left"/>
+<img width="200px" src="../public/icon.svg" align="left"/>
 
 # Pot (派了个萌的翻译器)
 
@@ -16,13 +16,13 @@
 <hr/>
 <div align="center">
 
-<h3>中文 | <a href='./README_EN.md'>English</a> | <a href='./README_KR.md'> 한글 </a></h3>
+<h3>中文 | <a href='./user-guides/README_EN.md'>English</a> | <a href='./user-guides/README_KR.md'> 한글 </a></h3>
 
 <table>
 <tr>
-    <td> <img src="asset/1.png">
-    <td> <img src="asset/2.png">
-    <td> <img src="asset/3.png">
+    <td> <img src="../asset/1.png">
+    <td> <img src="../asset/2.png">
+    <td> <img src="../asset/3.png">
 </table>
 
 # 目录
@@ -47,12 +47,12 @@
 | 划词翻译                                             | 输入翻译                                                       | 外部调用                                                             |
 | ---------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
 | 鼠标选中需要翻译的文本，按下设置的划词翻译快捷键即可 | 按下输入翻译快捷键呼出翻译窗口，输入待翻译文本后按下 回车 翻译 | 通过被其他软件调用实现更加方便高效的功能, 详见 [外部调用](#外部调用) |
-| <img src="asset/eg1.gif"/>                           | <img src="asset/eg2.gif"/>                                     | <img src="asset/eg3.gif"/>                                           |
+| <img src="../asset/eg1.gif"/>                        | <img src="../asset/eg2.gif"/>                                  | <img src="../asset/eg3.gif"/>                                        |
 
 | 剪切板监听模式                                                         | 截图 OCR                                          | 截图翻译                                         |
 | ---------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------ |
 | 在任意翻译面板上点击左上角图标启动剪切板监听默认，复制文字即可完成翻译 | 按下截图 OCR 快捷键后框选需要识别区域即可完成识别 | 按下截图翻译快捷键后框选需要识别区域即可完成翻译 |
-| <img src="asset/eg4.gif"/>                                             | <img src="asset/eg5.gif"/>                        | <img src="asset/eg6.gif"/>                       |
+| <img src="../asset/eg4.gif"/>                                          | <img src="../asset/eg5.gif"/>                     | <img src="../asset/eg6.gif"/>                    |
 
 </div>
 
