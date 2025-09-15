@@ -28,6 +28,8 @@
 -   [开发流程](development/workflow.md) - 开发工作流程和分支管理
 -   [构建部署](development/build-and-deploy.md) - 构建和部署指南
 -   [代码规范](development/coding-standards.md) - 代码风格和编写规范
+-   [组件开发](development/components.md) - UI 组件开发指南
+-   [插件开发](development/plugins.md) - 插件系统开发指南
 -   [测试指南](development/testing.md) - 测试策略和最佳实践
 -   [贡献指南](development/contributing.md) - 如何参与项目贡献
 -   [开发常见问题](development/troubleshooting.md) - 开发过程中的问题解决

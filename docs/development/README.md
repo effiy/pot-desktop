@@ -19,6 +19,8 @@
 ### 开发规范
 
 -   [代码规范](coding-standards.md) - 代码风格和编写规范
+-   [组件开发](components.md) - UI 组件开发指南和最佳实践
+-   [插件开发](plugins.md) - 插件系统开发指南
 -   [测试指南](testing.md) - 测试策略和最佳实践
 
 ### 参与贡献
