@@ -13,6 +13,7 @@
 ### 开发环境
 
 -   [开发环境搭建](development-setup.md) - 如何搭建开发环境
+-   [开发流程](workflow.md) - 完整的开发工作流程和分支管理
 -   [构建和部署](build-and-deploy.md) - 项目构建和部署流程
 
 ### 开发规范
